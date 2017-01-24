@@ -7,10 +7,10 @@
 #
 
 # domain
-host: your_domain.com 
+host:https://mhdmhdpor.github.io/asp/
 
 # allowed port for HTTPS
-port: 8443
+port: 443
 
 #
 # your SSL certificates, 
